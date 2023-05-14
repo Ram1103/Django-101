@@ -1,1 +1,2 @@
-"# Fjango-101" 
+#Django basics
+Login and register basics 
